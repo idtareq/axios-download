@@ -5,7 +5,7 @@ Axios plugin to make it easy to download files with resume download support.
 
 
 ## Installation
-npm i axiosdownload-plugin
+`npm i axiosdownload-plugin`
 
 ## Usage
 
