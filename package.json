@@ -1,0 +1,23 @@
+{
+  "name": "axiosdownload-plugin",
+  "version": "1.0.3",
+  "description": "Axios plugin to support downloading files and resume stopped downloaded files.",
+  "author": "Tareq Ibrahim <idtareq@gmail.com>",
+  "keywords": [
+    "axios",
+    "download",
+    "resume download"
+  ],
+  "main": "src/index.js",
+  "repository": "https://github.com/idtareq/axios-download",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
